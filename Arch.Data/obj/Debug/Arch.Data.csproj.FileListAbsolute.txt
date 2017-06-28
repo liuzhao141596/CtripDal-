@@ -1,0 +1,7 @@
+D:\Code\CtripDal\Arch.Data\Arch.Data\bin\Debug\Arch.Data.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data\bin\Debug\Arch.Data.pdb
+D:\Code\CtripDal\Arch.Data\Arch.Data\obj\Debug\Arch.Data.csprojResolveAssemblyReference.cache
+D:\Code\CtripDal\Arch.Data\Arch.Data\obj\Debug\Arch.Data.Properties.Resources.resources
+D:\Code\CtripDal\Arch.Data\Arch.Data\obj\Debug\Arch.Data.csproj.GenerateResource.Cache
+D:\Code\CtripDal\Arch.Data\Arch.Data\obj\Debug\Arch.Data.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data\obj\Debug\Arch.Data.pdb
