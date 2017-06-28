@@ -1,0 +1,8 @@
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\obj\Debug\Arch.Data.MySqlProvider.csprojResolveAssemblyReference.cache
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\bin\Debug\Arch.Data.MySqlProvider.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\bin\Debug\Arch.Data.MySqlProvider.pdb
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\bin\Debug\Arch.Data.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\bin\Debug\MySql.Data.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\bin\Debug\Arch.Data.pdb
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\obj\Debug\Arch.Data.MySqlProvider.dll
+D:\Code\CtripDal\Arch.Data\Arch.Data.MySqlProvider\obj\Debug\Arch.Data.MySqlProvider.pdb
